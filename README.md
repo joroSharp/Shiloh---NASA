@@ -9,7 +9,7 @@
 
 **_Shiloh_** is a **_virtual partner_** capable of **_interpret_** your **_emotions_** and your **_words_**. **_It learns_** from people's **_experiences_** to **_provide you with support, advice and positive thoughts_** when you need them most.
 
-**_FOTOS DE LA APLICACIÓN_**
+![](https://github.com/joroSharp/Shiloh---NASA/blob/master/3.-%20Idea/Ejemplo%20Aplicacion.PNG)
 
 **_Visit our team_** on GitHub with our partner prototype and demo! **_Take a look to_** the summary of data **_worldwide_**
 
