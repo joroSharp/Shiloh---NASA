@@ -96,10 +96,15 @@ This repository contains all the information of the project.
 **_Conclusions based_** on the works of **_NASA collaborator Dr. Tom Williams and astronaut Anne McClain_**
 
 https://www.nasa.gov/feature/a-sirius-international-isolation-study
+
 https://www.nasa.gov/hrp/social-isolation/in-context
+
 https://www.nasa.gov/hrp/bodyinspace
+
 https://www.nasa.gov/johnson/HWHAP/hazard-2-isolation
+
 https://www.nasa.gov/johnson/HWHAP/hazard-3-distance
+
 https://blogs.nasa.gov/icebridge/2010/05/10/post_1273379254252/
 
 **_ETIQUETAS HASTAG_**
