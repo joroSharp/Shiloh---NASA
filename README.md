@@ -45,6 +45,7 @@ We have designed an **_interpreter_** in which the identification of the **_feel
 As we can see in the previous example, **_we identify_** an **_emotion_**, the **_subject_** affected, the **_problem_** and the **_time_** if it is past, present, future. With this we adapt the **_solution_** of another user who went through something similar and how he overcame the situation. Thus creating a **_positive conversation_** that provides **_bonding and commitment_**.
 
 Synchronous:
+
 1. Shiloh's interaction with the person through conversation.
 2. Interpretation of the user's emotions.
 3. Identification of keywords and context. Analysis of the situation.
@@ -52,6 +53,7 @@ Synchronous:
 5. Continue the conversation with the person offering closeness.
 
 Asynchronous:
+
 6. After analyzing the current situation, once you interpret the resolution of the problem, it will be uploaded to the Internet for other users.
 7. Periodically, new situations will be downloaded as well as the update of the best solutions.
 
