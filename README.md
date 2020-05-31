@@ -32,7 +32,7 @@ We have designed an **_interpreter_** in which the identification of the **_feel
 
 **_My mother_** was **_hungry_** but did not know what to eat.
 
-![image.png](/.attachments/image-3c4a65ee-42fd-4fc7-a55e-89e5cdb71a7b.png)
+
 
 Mother -> Family
 My -> Possessive
