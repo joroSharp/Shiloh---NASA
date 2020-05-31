@@ -83,7 +83,7 @@ Thanks to **_anonymous global data_**, it will allow you to know those **_most c
 - About us
 
 6.- **_Share the code_**
-TO FILL IN - WE PUT THE SAME IMAGE OF THE DEVELOPMENT POINT ON THE GITHUB
+This repository contains all the information of the project.
 
 7.- **_REFERENCES_**
 
