@@ -32,9 +32,13 @@ We have designed an **_interpreter_** in which the identification of the **_feel
 
 **_My mother_** was **_hungry_** but did not know what to eat.
 
-Mother -> Family
-My -> Possessive
-Hunger -> Problem
+![](https://github.com/joroSharp/Shiloh---NASA/blob/master/3.-%20Idea/Analisis.png)
+
+* Mother -> Family
+* My -> Possessive
+* Hunger -> Problem
+
+![](https://github.com/joroSharp/Shiloh---NASA/blob/master/3.-%20Idea/Shiloh.png)
 
 **_Shiloh_** **_identifies_** that is a **_problem_** from **_past_** of a **_family member_**. It saves the information and return a solution for a similar future case.
 
